@@ -1,7 +1,7 @@
 {
-  "name": "webdriverio",
+  "name": "clay-webdriverio",
   "description": "A nodejs bindings implementation for selenium 2.0/webdriver",
-  "version": "3.0.0",
+  "version": "3.0.0-rc3-clay",
   "homepage": "http://webdriver.io",
   "author": "Camilo Tapia <camilo.tapia@gmail.com>",
   "contributors": [
